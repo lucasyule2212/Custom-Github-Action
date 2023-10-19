@@ -48,7 +48,13 @@ Custom *Github Action* triggered on Pull Requests events, integrated with the Sl
 - [ ]  Input configurations in order to enable it to any others projects
 
 ## ❗ Known Issues
-#### Nothing yet...
+**Nothing yet...**
+
+
+## ⚙️ How to use it
+**⚠️ In development**
+
+
 ## 🖼️ Screenshots
 ![intro](https://cdn.discordapp.com/attachments/1154186775581966437/1164417616396427324/image.png?ex=65432369&is=6530ae69&hm=ff4d73bcc05ce43178d93bf27faa80e6ee38be5ed17f161b5c4b8cec2378204e&)
 
