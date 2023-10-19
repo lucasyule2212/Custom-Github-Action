@@ -51,8 +51,10 @@ async function notifySlack() {
 
   console.log(pullRequestData);
 
+  // Find the channel to send the message
   const channelId = await findConversation("custom-github-action");
 
+  // Compose the message
   const message = {
     channel: channelId,
     blocks: [
@@ -79,6 +81,7 @@ async function notifySlack() {
   }
 
 
+  // Publish the message
   await publishMessage({message});
 
 }
