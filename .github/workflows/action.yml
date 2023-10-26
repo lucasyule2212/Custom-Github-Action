@@ -1,6 +1,10 @@
 name: Notify Slack Channel on Pull Request Updates
 
 on:
+  workflow_call:
+    secrets:
+      SLACK_API_TOKEN:
+        required: true
   pull_request:
     types:
       - opened
