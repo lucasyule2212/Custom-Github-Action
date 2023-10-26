@@ -40,7 +40,7 @@ Custom *Github Action* triggered on Pull Requests events, integrated with the Sl
 
 
 ## 🚨 Status
-- In Development ⏳
+- Ready ✅
 ## 🛣️ Roadmap
 - [x]  Github Actions configuration
 - [x]  Pull requests events trigger  
