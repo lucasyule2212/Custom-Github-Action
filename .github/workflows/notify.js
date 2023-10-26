@@ -33,6 +33,7 @@ async function publishMessage({message}) {
   }
 }
 
+// Possible message titles by pull request state
 const messageTitleByState = {
   opened: "*🚀 New Pull Request!*",
   closed: "*🚨 Pull Request Closed!*",
